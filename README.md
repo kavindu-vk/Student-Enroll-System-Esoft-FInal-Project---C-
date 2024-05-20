@@ -28,7 +28,7 @@ The Student Enrollment System is a C# application designed to manage the enrollm
 ![AddTeachers](screenshots/AddTeachers.PNG)
 
 ### All Courses
-![AllCourses](screenshots/AllCourses)
+![AllCourses](screenshots/AllCourses.PNG)
 
 ### Add Courses
 ![AddCourses](screenshots/AddCourses.PNG)
